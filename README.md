@@ -1,1 +1,2 @@
-# Discord.py-twitch-bot
+# Discord.py twitch bot
+
